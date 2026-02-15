@@ -1,0 +1,32 @@
+{
+    "author": [
+        "LFB Bot Development"
+    ],
+    "install_msg": "🎫 **LFBBotTicketTool wurde erfolgreich installiert!**\n\n**Erste Schritte:**\n1. `[p]ticketset quicksetup` - Schnelleinrichtung\n2. `[p]ticketset panel create` - Panel erstellen\n\n**Hilfe:**\n- `[p]help ticket` - User-Befehle\n- `[p]help ticketset` - Admin-Befehle",
+    "name": "LFBBotTicketTool",
+    "short": "Umfassendes Ticket-System",
+    "description": "Ein vollständiges, auf Deutsch lokalisiertes Ticket-System mit Kategorien, Transkripten, Claim-System, Feedback, Blacklist und mehr.",
+    "tags": [
+        "ticket",
+        "support",
+        "deutsch",
+        "german",
+        "transcript",
+        "claim",
+        "feedback",
+        "lfb"
+    ],
+    "requirements": [],
+    "hidden": false,
+    "min_bot_version": "3.5.0",
+    "max_bot_version": "4.0.0",
+    "permissions": [
+        "manage_channels",
+        "manage_messages",
+        "embed_links",
+        "attach_files"
+    ],
+    "type": "COG",
+    "end_user_data_statement": "Dieser Cog speichert Ticket-Daten, Benutzer-IDs und Feedback. Die Daten werden nur für den Betrieb des Ticket-Systems verwendet und können durch den Server-Admin gelöscht werden.",
+    "version": "1.0.0"
+}
